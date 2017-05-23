@@ -46,6 +46,6 @@ def print_results(exp):
 connect() #connect to IBM Q
 
 print("Mermin's inequality test.")
-exp = mermin_test(1000) #teleport with 1000 trials
+exp = mermin_test_comp(1000) #teleport with 1000 trials
 
 print_results(exp) #print results
