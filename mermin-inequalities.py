@@ -1,6 +1,7 @@
 '''
 A test of the mermin inequalities on the IBM Q
 written by Marcus Edwards on May 8, 2017
+updated by Gareth Sharpe on June 19, 2017
 '''
 
 from IBMQuantumExperience import IBMQuantumExperience 
@@ -36,16 +37,31 @@ def print_results(exp):
     print("---------------------")
     print("RESULTS")
     print("---------------------")
-    print("state     probability")
+    states = "State       | "
+    probabilities = "Probability | "
+    expected = 0
     for i in range(len(exp['result']['measure']['labels'])):
-        print("{0}       {1}".format(exp['result']['measure']['labels'][i],exp['result']['measure']['values'][i]))    
-
-    return
+        state = exp['result']['measure']['labels'][i]
+        probability = exp['result']['measure']['values'][i]
+        expected += int(state, 2) * probability
+        states += str(state) + " | "
+        probabilities += "{:.3f}".format(probability) + " | "
+        
+    print(states)
+    print(probabilities)
+    print("Expected Value: ", "{:.3f}".format(expected))
+    return expected
 
     
 connect() #connect to IBM Q
 
 print("Mermin's inequality test.")
-exp = mermin_test_comp(1000) #teleport with 1000 trials
 
-print_results(exp) #print results
+exp = mermin_test_sim(1000, 'xxxxx') #teleport with 1000 trials in the XXXXX basis
+expected1 = print_results(exp) #print results
+exp = mermin_test_sim(1000, 'xxxyy') #teleport with 1000 trials in the XXXYY basis
+expected2 = print_results(exp) #print results
+exp = mermin_test_sim(1000, 'xyyyy') #teleport with 1000 trials in the XYYYY basis
+expected3 = print_results(exp) #print results
+overall = (expected1 * -1) + (expected2 * 10) - (expected3 * 5)
+print("-<xxxxx> + 10<xxxyy> - 5<xyyyy = <M5exp> = ", overall)
