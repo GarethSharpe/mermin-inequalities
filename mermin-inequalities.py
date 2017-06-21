@@ -25,17 +25,23 @@ def connect():
     connection_success = test_api_auth_token()
 
     if(connection_success == True):
-        print("API auth success.")
+        print("API authentication success.")
     else:
-        print("API auth failure.")
+        print("API authentication failure.")
         exit()
 
-def print_results(exp):
+def parity_check(i):
+    i = i - ((i >> 1) & 0x55555555)
+    i = (i & 0x33333333) + ((i >> 2) & 0x33333333)
+    i = (((i + (i >> 4)) & 0x0F0F0F0F) * 0x01010101) >> 24
+    return int(i % 2)
+
+def print_results(exp, basis):
     '''
     Print the distribution of measured results from the given experiment
     '''
     print("---------------------")
-    print("RESULTS")
+    print("RESULTS: " + basis.upper())
     print("---------------------")
     states = "State       | "
     probabilities = "Probability | "
@@ -43,25 +49,114 @@ def print_results(exp):
     for i in range(len(exp['result']['measure']['labels'])):
         state = exp['result']['measure']['labels'][i]
         probability = exp['result']['measure']['values'][i]
-        expected += int(state, 2) * probability
-        states += str(state) + " | "
+        outcome = int(state, 2)
+        
+        # parity check
+        parity = parity_check(outcome)
+        
+        if parity:
+            expected -= probability
+        else:   
+            expected += probability
+
+        states += str(state) + " | " 
         probabilities += "{:.3f}".format(probability) + " | "
         
     print(states)
     print(probabilities)
-    print("Expected Value: ", "{:.3f}".format(expected))
+    print("<" + basis.upper() + "> = ", "{:.3f}".format(expected))
     return expected
 
+def test_3Q_sim():
     
-connect() #connect to IBM Q
+    connect() #connect to IBM Q
+    print("Mermin's inequality test.")
+    
+    exp, basis = mermin_test_sim(1000, 'xxx')
+    print_results(exp, basis) 
+    exp, basis = mermin_test_sim(1000, 'xyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yxy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyx')
+    print_results(exp, basis)
+    
+def test_3Q_comp():
+    
+    connect() #connect to IBM Q
+    print("Mermin's inequality test.")
+    
+    exp, basis = mermin_test_comp(1000, 'xxx')
+    print_results(exp, basis) 
+    exp, basis = mermin_test_comp(1000, 'xyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_comp(1000, 'yxy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_comp(1000, 'yyx')
+    print_results(exp, basis)
 
-print("Mermin's inequality test.")
+def test_4Q_sim():
+    
+    connect() #connect to IBM Q
+    print("Mermin's inequality test.")
+    
+    exp, basis = mermin_test_sim(1000, 'xxxx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xxyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xyxy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xyyx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yxxy')
+    print_results(exp, basis)    
+    exp, basis = mermin_test_sim(1000, 'yxyx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyxx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyyy')
+    print_results(exp, basis)
 
-exp = mermin_test_sim(1000, 'xxxxx') #teleport with 1000 trials in the XXXXX basis
-expected1 = print_results(exp) #print results
-exp = mermin_test_sim(1000, 'xxxyy') #teleport with 1000 trials in the XXXYY basis
-expected2 = print_results(exp) #print results
-exp = mermin_test_sim(1000, 'xyyyy') #teleport with 1000 trials in the XYYYY basis
-expected3 = print_results(exp) #print results
-overall = (expected1 * -1) + (expected2 * 10) - (expected3 * 5)
-print("-<xxxxx> + 10<xxxyy> - 5<xyyyy = <M5exp> = ", overall)
+def test_5Q_sim():
+    
+    connect() #connect to IBM Q
+    print("Mermin's inequality test.")
+    
+    exp, basis = mermin_test_sim(1000, 'xxxxx')
+    print_results(exp, basis)    
+    exp, basis = mermin_test_sim(1000, 'xxxyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xxyxy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xxyyx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xyxxy')
+    print_results(exp, basis)    
+    exp, basis = mermin_test_sim(1000, 'xyxyx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xyyxx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'xyyyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yxxxy')
+    print_results(exp, basis)    
+    exp, basis = mermin_test_sim(1000, 'yxxyx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yxyxx')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yxyyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyxxx')
+    print_results(exp, basis)   
+    exp, basis = mermin_test_sim(1000, 'yyxyy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyyxy')
+    print_results(exp, basis)
+    exp, basis = mermin_test_sim(1000, 'yyyyx')
+    print_results(exp, basis)
+
+test_3Q_sim()
+# test_4Q_sim()
+# test_5Q_sim()
+
+# test_3Q_comp()
