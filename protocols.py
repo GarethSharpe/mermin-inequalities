@@ -1,7 +1,11 @@
 '''
 Quantum Protocols
-written by Marcus Edwards on May 8, 2017
+created by Marcus Edwards on May 8, 2017
 written by Gareth Sharpe on June 19-21, 2017
+finalized by Gareth Sharpe on June 23, 2017
+
+@author: Gareth Sharpe
+@author: Marcus Edwards
 '''
 
 from IBMQuantumExperience import IBMQuantumExperience
@@ -42,7 +46,7 @@ def mermin_test_sim(shots, basis):
 def mermin_test_comp(shots, basis):
     
     api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
-    device = 'ibmqx2'
+    device = 'real'
     n = len(basis)
     
     i = 0
@@ -68,6 +72,5 @@ def mermin_test_comp(shots, basis):
         qasm += "h q[0];h q[1];h q[2];measure q[0] -> c[0];measure q[1] -> c[1];measure q[2] -> c[2];"
         
     exp = api.run_experiment(qasm, device, shots)
-
     return exp, basis
 
