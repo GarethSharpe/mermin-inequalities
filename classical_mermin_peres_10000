@@ -1,0 +1,4090 @@
+Round outcome:  1
+--------------------
+ROUND 9418
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9419
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9420
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9421
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9422
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9423
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9424
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9425
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9426
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9427
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9428
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9429
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9430
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9431
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9432
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9433
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9434
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9435
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9436
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9437
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9438
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9439
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9440
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9441
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9442
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9443
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9444
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9445
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9446
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9447
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9448
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9449
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9450
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9451
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9452
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9453
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9454
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9455
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9456
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9457
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9458
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9459
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9460
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9461
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9462
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9463
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9464
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9465
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9466
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9467
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9468
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9469
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9470
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9471
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9472
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9473
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9474
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9475
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9476
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9477
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9478
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9479
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9480
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9481
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9482
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9483
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9484
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9485
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9486
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9487
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9488
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9489
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9490
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9491
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9492
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9493
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9494
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9495
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9496
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9497
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9498
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9499
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9500
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9501
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9502
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9503
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9504
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9505
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9506
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9507
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9508
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9509
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9510
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9511
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9512
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9513
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9514
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9515
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9516
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9517
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9518
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9519
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9520
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9521
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9522
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9523
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9524
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9525
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9526
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9527
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9528
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9529
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9530
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9531
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9532
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9533
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9534
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9535
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9536
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9537
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9538
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9539
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9540
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9541
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9542
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9543
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9544
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9545
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9546
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9547
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9548
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9549
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9550
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9551
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9552
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9553
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9554
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9555
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9556
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9557
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9558
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9559
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9560
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9561
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9562
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9563
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9564
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9565
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9566
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9567
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9568
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9569
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9570
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9571
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9572
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9573
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9574
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9575
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9576
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9577
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9578
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9579
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9580
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9581
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9582
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9583
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9584
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9585
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9586
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9587
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9588
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9589
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9590
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9591
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9592
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9593
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9594
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9595
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9596
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9597
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9598
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9599
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9600
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9601
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9602
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9603
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9604
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9605
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9606
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9607
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9608
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9609
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9610
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9611
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9612
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9613
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9614
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9615
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9616
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9617
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9618
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9619
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9620
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9621
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9622
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9623
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9624
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9625
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9626
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9627
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9628
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9629
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9630
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9631
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9632
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9633
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9634
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9635
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9636
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9637
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9638
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9639
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9640
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9641
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9642
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9643
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9644
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9645
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9646
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9647
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9648
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9649
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9650
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9651
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9652
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9653
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9654
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9655
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9656
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9657
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9658
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9659
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9660
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9661
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9662
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9663
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9664
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9665
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9666
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9667
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9668
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9669
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9670
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9671
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9672
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9673
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9674
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9675
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9676
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9677
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9678
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9679
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9680
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9681
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9682
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9683
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9684
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9685
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9686
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9687
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9688
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9689
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9690
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9691
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9692
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9693
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9694
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9695
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9696
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9697
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9698
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9699
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9700
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9701
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9702
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9703
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9704
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9705
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9706
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9707
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9708
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9709
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9710
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9711
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9712
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9713
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9714
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9715
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9716
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9717
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9718
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9719
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9720
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9721
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9722
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9723
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9724
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9725
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9726
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9727
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9728
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9729
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9730
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9731
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9732
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9733
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9734
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9735
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9736
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9737
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9738
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9739
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9740
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9741
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9742
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9743
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9744
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9745
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9746
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9747
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9748
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9749
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9750
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9751
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9752
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9753
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9754
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9755
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9756
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9757
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9758
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9759
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9760
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9761
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9762
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9763
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9764
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9765
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9766
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9767
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9768
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9769
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9770
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9771
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9772
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9773
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9774
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9775
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9776
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9777
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9778
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9779
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9780
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9781
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9782
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9783
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9784
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9785
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9786
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9787
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9788
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9789
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9790
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9791
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9792
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9793
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9794
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9795
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9796
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9797
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9798
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9799
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9800
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9801
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9802
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9803
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9804
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9805
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9806
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9807
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9808
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9809
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9810
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9811
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9812
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9813
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9814
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9815
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9816
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9817
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9818
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9819
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9820
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9821
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9822
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9823
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9824
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9825
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9826
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9827
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9828
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9829
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9830
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9831
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9832
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9833
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9834
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9835
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9836
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9837
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9838
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9839
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9840
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9841
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9842
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9843
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9844
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9845
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9846
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9847
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9848
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9849
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9850
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9851
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9852
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9853
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9854
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9855
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9856
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9857
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9858
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9859
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9860
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9861
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9862
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9863
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9864
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9865
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9866
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9867
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9868
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9869
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9870
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9871
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9872
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9873
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9874
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9875
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9876
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9877
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9878
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9879
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9880
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9881
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9882
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9883
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9884
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9885
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9886
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9887
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9888
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9889
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9890
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9891
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9892
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9893
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9894
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9895
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9896
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9897
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9898
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9899
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9900
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9901
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9902
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9903
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9904
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9905
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9906
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9907
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9908
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9909
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9910
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9911
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9912
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9913
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9914
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9915
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9916
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9917
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9918
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9919
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9920
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9921
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9922
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9923
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9924
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9925
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9926
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9927
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9928
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9929
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9930
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9931
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9932
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9933
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9934
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9935
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9936
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9937
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9938
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9939
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9940
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9941
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9942
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9943
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9944
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9945
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9946
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9947
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9948
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9949
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9950
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9951
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9952
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9953
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9954
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9955
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9956
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9957
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9958
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9959
+--------------------
+Row: 3, Col: 3
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, '?']
+Round outcome:  0
+--------------------
+ROUND 9960
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9961
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9962
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9963
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9964
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9965
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9966
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9967
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9968
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9969
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9970
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9971
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9972
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9973
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9974
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9975
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9976
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9977
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9978
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9979
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9980
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9981
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9982
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9983
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9984
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9985
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9986
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9987
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9988
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9989
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9990
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9991
+--------------------
+Row: 1, Col: 2
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9992
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9993
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9994
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9995
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9996
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9997
+--------------------
+Row: 2, Col: 3
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+--------------------
+ROUND 9998
+--------------------
+Row: 3, Col: 2
+Alice's choice: [-1, 1, '?']
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 9999
+--------------------
+Row: 2, Col: 2
+Alice's choice: [1, -1, -1]
+Bob's choice:   [1, -1, 1]
+Round outcome:  1
+--------------------
+ROUND 10000
+--------------------
+Row: 1, Col: 3
+Alice's choice: [1, 1, 1]
+Bob's choice:   [1, -1, '?']
+Round outcome:  1
+
+--------------------
+FINAL RESULTS
+--------------------
+Rounds: 10000
+Wins:  8933
+Losses: 1067
+P(win): 0.8933
