@@ -3,6 +3,7 @@ A test of the mermin inequalities on the IBM Q
 created by Marcus Edwards on May 8, 2017
 written by Gareth Sharpe on June 19-23, 2017
 finalized by Gareth Sharpe on June 23, 2017
+adapted for ibmqx4 by Marcus Edwards on November 9, 2017
 
 @author: Gareth Sharpe
 @author: Marcus Edwards
@@ -12,14 +13,14 @@ from IBMQuantumExperience import IBMQuantumExperience
 from protocols import *
 from math import fabs
 
-API_TOKEN = 'ae62fe37579104f45f6d8f3b02a86b7f3de4a3ec864980c041268859060d90c30e3e30ff695536567f6a52c991d553dc04e5625cf4529bead5946a059525efa7'
+API_TOKEN = 'a0f9090f4b9b0a7f86cb31848730654bb4dbc35aab364a7d728162c96b264752d413b88daea7303c87f12e0a719345119c0f8a880a27d73b998887664a989fce'
 
 def test_api_auth_token():
     '''
     Authentication with Quantum Experience Platform
     '''
-    api = IBMQuantumExperience.IBMQuantumExperience(API_TOKEN)
-    credential = api._check_credentials()
+    api = IBMQuantumExperience(API_TOKEN)
+    credential = api.check_credentials()
 
     return credential
 
@@ -405,7 +406,7 @@ def test_5Q_comp():
     print_results(exp, basis)
     
 ''' Simulated Mermin Inequalities '''    
-# mermin_3Q_sim()
+mermin_3Q_sim()
 # mermin_4Q_sim()
 # mermin_5Q_sim()
 
